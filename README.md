@@ -1,8 +1,8 @@
 # Greetings Program
 
 - 👋  Hi, I’m @PeteBird.
+- 👷‍♂️  I'm a cloud consultant focusing primarily on building things on the AWS platform.
 - 🥷  Recovering Network Engineer who made the leap to cloud and that DevOps life.
-- 👷‍♂️  I'm now a cloud consultant focusing primarily on building things on the AWS platform.
 - 👀  Interested in Infra as Code, Automation, Networking, Containers, K8s, all things security.
 - 🌱  Currently learning Python, Go, JQuery, and Javascript.
 - 💞️  Working to make the world a better place through \<insert industry buzzword-speak\>
