@@ -6,7 +6,7 @@
 - 🤔  I created this account for my own personal growth. I'm here to learn.
 - 👀  I’m interested in Infra as Code, Networking (of course), Automation, Containers, K8s, all things security.
 - 🌱  I’m currently learning Python, Go, JQuery, and Javascript.
-- 💞️  I’m looking to collaborate on all the things, and to make the world a better place through \<insert industry buzzword-speak\>
+- 💞️  I’m looking to make the world a better place through \<insert industry buzzword-speak\>
 - 📫  How to reach me: GitHub, KeyBase, Matrix.
 
 Namaste.
